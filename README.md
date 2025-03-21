@@ -4,31 +4,23 @@ Final project for the Building AI course
 
 ## Summary
 
-I want to pass this course so I can code something useful.
+Dont have the code yet but i have an idea
+CNN model that learns form users input and can decisions based on your previos interactions 
+imagine returning boss in game in the begining he is waek and he doesnt know you, in the middle of the game its stornger cuz he learned few of your trick and at the endgame he reading you like a book so you need to outsmart him with random activities so he wouldnt recognize your patterns
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+this is just nice to have thing
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+it doesnt solve any of the problems in like real world for nowm
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+you implement some kind of general model that tracks 3-4 last player actions (move, jump, attack, attack) so model will learn that after "move,jump,atck next thing is atck so it can give the output to the enemy to move or dodge and so on 
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
-
-This is how you create code examples:
+This is how you create code examples but i dont have the code:
 ```
 def main():
    countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
@@ -48,23 +40,14 @@ main()
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+dont gave any
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
-
+it needs to be aplicable to general code in gaming like c# and i dont know how to do that 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
+making my model for this and making my first game
 
 ## Acknowledgments
 
@@ -75,6 +58,4 @@ How could your project grow and become something even more? What kind of skills,
 * etc
 radim test
 
-Read me koristimo za opis kako stvari rade 
 
-![image of an online cat](https://tinyurl.com/elementsofaicat)
