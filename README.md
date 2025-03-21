@@ -5,7 +5,7 @@ Final project for the Building AI course
 ## Summary
 
 i want to pass this course so i can code something i want to make 
-
+Ovo je potpuno ručno implementirano rješenje koje ne koristi vanjske biblioteke osim NumPy-ja.
 
 ## Background
 
